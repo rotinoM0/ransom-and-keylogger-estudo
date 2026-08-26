@@ -1,0 +1,10 @@
+Relatorio Financeiro - Q1 2026
+
+Receita: R$ 150.000,00
+Despesas: R$ 80.000,00
+Lucro Liquido: R$ 70.000,00
+
+Observacoes:
+- Aumento de 15% em relacao ao ano anterior
+- Principal fonte de receita: vendas online
+- Custo com marketing: R$ 20.000,00

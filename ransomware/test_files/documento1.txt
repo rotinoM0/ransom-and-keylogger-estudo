@@ -1,0 +1,8 @@
+Este e um arquivo de teste para simulacao de ransomware.
+
+Conteudo sensivel ficticio:
+- CPF: 123.456.789-00
+- RG: 12.345.678-9
+- Endereco: Rua Dos Bobos, 0 - Belo Horizonte, MG
+
+Este arquivo sera criptografado pelo script encrypt.py e descriptografado pelo decrypt.py.
